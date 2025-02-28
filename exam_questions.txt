@@ -1,0 +1,69 @@
+MCQ
+Which of the following is the first calculating device?
+Abacus
+Calculator
+Turing Machine
+Pascaline
+MCQ
+Who among the following considered as the 'father of artificial intelligence'?
+John McCarthy
+Charles Babbage
+Lee De Forest
+JP Eckert
+MCQ
+How the quality of printer is measured?
+Dots per Inch
+Alphabet per strike
+Words per Inch
+Strike per Inch
+MCQ
+Which of the following is a large blood vessel that carries blood away from the heart?
+Artery
+Vein
+Capillary
+Nerve
+MCQ
+Which of the following is not a member of the vitamin B complex?
+Ascorbic acid
+Thiamine
+Riboflavin
+Folic acid
+MCQ
+What makes a reptile a reptile?
+Egg-laying
+Cold blooded
+Warm blooded
+Non-hearing
+TF
+The first Olympics in the city of Olympia in Greece took place in 776 BC
+true
+MCQ
+Which of the following is an air-borne disease?
+Measles
+Typhoid
+Pink eye
+AIDS
+MCQ
+Which one of the following is not a function of the liver?
+Reproduction
+Regulation of blood sugar
+Enzyme activation
+Detoxiation
+MCQ
+What is the capital city of Pakistan?
+(1) Islamabad
+(2) Lahore
+(3) Punjab
+(4) Karachi
+MCQ
+What is the capital of Pakistan?
+Islamabad
+Lahore
+Karachi
+Lahore
+TF
+Pakistan is in Asia
+true
+TF
+Independence day of pakistan is 1st jannuary
+false
